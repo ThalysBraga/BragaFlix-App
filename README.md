@@ -125,8 +125,8 @@ A tab bar usa `useSafeAreaInsets()` para calcular dinamicamente o padding inferi
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/<seu-usuario>/bragaflix.git
-cd bragaflix
+git clone https://github.com/ThalysBraga/BragaFlix-App.git
+cd BragaFlix-App
 
 # Instalar dependências
 npm install
@@ -223,7 +223,7 @@ Ideias mapeadas para versões futuras:
 ## Autor
 
 **Thalys Alves Braga**
-Desenvolvedor de software — [linkedin.com/in/thalys-braga](#) | [github.com/thalys-braga](#)
+Desenvolvedor de software — [github.com/ThalysBraga](https://github.com/ThalysBraga)
 
 ---
 
